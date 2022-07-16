@@ -1,12 +1,16 @@
 {
-"posts":[
-{"id":1,"title": "Post 1", "description":"this is description 1"},
-{"id":2,"title": "Post 2", "description":"this is description 2"},
-{"id":3,"title": "Post 3", "description":"this is description 3"},
-],
-"comments":[
-{"id":1,"body": "comment 1", "postId": 1},
-{"id":2,"body": "comment 2", "postId": 1},
-],
-"profile":{"name": "profile 1"}
+  "banner_id": "ca-app-pub-3940256099942544/6300978111",
+  "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+  "native_id": "ca-app-pub-3940256099942544/2247696110",
+  "app_open_id": "ca-app-pub-3940256099942544/3419835294",
+  "interstitial_video_id":"ca-app-pub-3940256099942544/1033173712",
+  "rewarded_id":"ca-app-pub-3940256099942544/5224354917",
+  "rewarded_interstitial_id": "ca-app-pub-3940256099942544/5354046379",
+  "native_advanced_id": "ca-app-pub-3940256099942544/2247696110",
+  "native_advanced_video_id": "ca-app-pub-3940256099942544/2247696110",
+  "application_version": "1.0.0",
+  "aplication_code": "1",
+  "application_distribution_url": "share application url",
+  "privacy_policy": "privacy_policy",
+  "terms_and_condition": "terms_and_condition"
 }
